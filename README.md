@@ -28,7 +28,7 @@ I enjoy working on real-world projects, learning new technologies, and solving p
   🔗 https://github.com/Qwertiush/Launcher
 
 ### 🌐 Web
-- **Web App (React.js)**  
+- **Master of Tasks (React.js)**  
   Web application for task organization with CRUD functionality.  
   Uses React hooks and REST API integration.  
   🔗 https://github.com/Qwertiush/Manager-Of-Tasks
