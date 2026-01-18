@@ -9,7 +9,7 @@ I enjoy working on real-world projects, learning new technologies, and solving p
 ---
 
 ## 🛠️ Technologies
-- **Frontend:** React.js, JavaScript (ES6+), HTML, CSS
+- **Frontend:** React.js, TypeScript, JavaScript (ES6+), HTML, CSS
 - **Mobile:** React Native, Flutter (Dart)
 - **Backend / API:** C#, Python
 - **Inne:** Git, REST API
