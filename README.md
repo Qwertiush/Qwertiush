@@ -1,9 +1,6 @@
 # Hi 👋
 
-🎯 Junior Frontend / Mobile Developer 
-⚛️ React • React Native • Flutter
-
-I'm an IT graduate focused on building practical web and mobile applications.  
+I'm an IT graduate.
 I enjoy working on real-world projects, learning new technologies, and solving problems end-to-end.
 
 ---
