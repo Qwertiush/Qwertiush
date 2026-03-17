@@ -1,41 +1,32 @@
-# Hi 👋
+# Hi 👋 I'm Paweł
 
-I'm an IT graduate.
-I enjoy working on real-world projects, learning new technologies, and solving problems end-to-end.
+Frontend & Mobile Developer focused on React, React Native and TypeScript.  
+I enjoy building real-world applications and learning new technologies.
 
 ---
 
-## 🛠️ Technologies
-- **Frontend:** React.js, TypeScript, JavaScript (ES6+), HTML, CSS
-- **Mobile:** React Native, Flutter (Dart)
-- **Backend / API:** C#, Python
-- **Inne:** Git, REST API
+## 🛠️ Tech Stack
+- React, TypeScript, JavaScript, HTML, CSS  
+- React Native, Flutter  
+- C#, .NET 
+- Git Actions, REST API
+- Python
+- Unity Engine 
+
 ---
 
-# 🚀 Selected Projects
-### 📱 Mobile
-- **AT-APP (React Native)**
-  Mobile application that allows users to share and browse recipes.  
-  Features user authentication, navigation, and API communication.
-  🔗 https://github.com/Qwertiush/at-app
+## 🚀 Selected Projects
+- 📱 AT-APP – recipe sharing app (React Native)  
+  https://github.com/Qwertiush/at-app  
 
-- **Android Launcher (Flutter)**  
-  Custom Android launcher built with Flutter.  
-  Focused on UI customization and system integration.  
-  🔗 https://github.com/Qwertiush/Launcher
+- 📱 Android Launcher – custom launcher (Flutter)  
+  https://github.com/Qwertiush/Launcher  
 
-### 🌐 Web
-- **Master of Tasks (React.js)**  
-  Web application for task organization with CRUD functionality.  
-  Uses React hooks and REST API integration.  
-  🔗 https://github.com/Qwertiush/Manager-Of-Tasks
+- 🌐 Master of Tasks – task manager (React)  
+  https://github.com/Qwertiush/Manager-Of-Tasks  
 
-## 🎮 Additional Experience
-- **Unity (C#):** game mechanics, AI agents, player detection systems
-- **Python:** scripting and process automation
-- **C#:** Discord bot and backend-related projects
+---
 
 ## 📫 Contact
-- LinkedIn: https://pl.linkedin.com/in/pawe%C5%82-rycerz-03805729b?trk=people-guest_people_search-card
-- GitHub: https://github.com/Qwertiush
-- Website: https://pawelrycerz.netlify.app/
+- LinkedIn:   https://pl.linkedin.com/in/pawe%C5%82-rycerz-03805729b?trk=people-guest_people_search-card
+- Portfolio:  https://pawelrycerz.netlify.app/
