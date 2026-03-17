@@ -1,7 +1,6 @@
 # Hi 👋 I'm Paweł
 
-Frontend & Mobile Developer focused on React, React Native and TypeScript.  
-I enjoy building real-world applications and learning new technologies.
+I'm an IT graduate. I enjoy working on real-world projects, learning new technologies, and solving problems end-to-end.
 
 ---
 
